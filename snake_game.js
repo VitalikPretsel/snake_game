@@ -104,7 +104,6 @@ function drawScoreboard(){
   text("High Score: " + highScore, 30, 90);
 }
 
-// клас Їжа для представлення їжі для змії
 class Food{ 
   constructor(v){
     this.value = v;
